@@ -8,7 +8,11 @@ categories: jekyll update
 
 <h1>Ecological studies of the flame shell (_Limaria hians_) focusing on habitat restoration.</h1>
 
-My honors project focused on the biology of flameshells with regard to potential habitat restoration efforts and added to data showing a continued decline in the Port Appin flame shell bed. 
+My honors project focused on the biology of flame shells with regard to potential habitat restoration efforts and added to data showing a continued decline in the Port Appin flame shell bed. 
+
+Flame shells are 
+
+Another part of my dissertation was nest rebuilding observations at night using a raspberry pi based camera system to record long timelapses during the day and night using the Pi NOIR camera and an infrared light. Footage bellow. This work is being continued by [Kieran Tulbure](https://www.hw.ac.uk/schools/energy-geoscience-infrastructure-society/research/iles/tulbure-kieran.htm), a PHd candidate at Heriot-Watt University.
 
 <iframe width="867" height="651" src="https://www.youtube.com/embed/gOKh0IdMGN4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
