@@ -4,4 +4,8 @@ title: About
 permalink: /about/
 ---
 
- I'm a recently graduated marine biologist who from Heriot-Watt university trying to work out what to do with myself. I'm also Trying to work out what to do with this website other than hosting my CV so watch this space.  
+
+I created this site using Github pages and Jekyll. I've edited the minima template ([Github repo](https://github.com/jekyll/minima)) to suit my needs.
+  
+
+ 
