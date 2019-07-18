@@ -14,4 +14,4 @@ My honors project focused on the biology of flameshells with regard to potential
 
 I also ran trials of feeding rate experiments however these were cut from the final project due to time restrictions and the fact that the feeding experiments didn't really fit in with the rest of the project.
 
-<iframe src="/documents/R-J Alexander - Ecological studies of the flame shell focusing on habitat restoration - App.pdf#zoom=100&view=FitH" width="100%" height="1200px" style="iframe {display:block;margin:auto;"></iframe>
+<iframe src="{{site.baseurl}}/documents/R-J Alexander - Ecological studies of the flame shell focusing on habitat restoration - App.pdf#zoom=100&view=FitH" width="100%" height="1200px" style="iframe {display:block;margin:auto;"></iframe>
