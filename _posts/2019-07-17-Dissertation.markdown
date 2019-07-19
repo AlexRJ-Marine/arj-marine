@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Dissertation"
-meta: My honours dissertation - Ecological studies of the flame shell (_Limaria hians_) focusing on habitat restoration.
+meta: My honours dissertation - Ecological studies of the flame shell (<i>Limaria hians</i>) focusing on habitat restoration.
 date:   2019-07-17 15:31:53 +0100
 categories: jekyll update
 ---
