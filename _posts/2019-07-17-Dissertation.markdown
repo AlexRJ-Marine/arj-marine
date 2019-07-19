@@ -6,7 +6,7 @@ date:   2019-07-17 15:31:53 +0100
 categories: jekyll update
 ---
 
-<h1>Ecological studies of the flame shell ( _Limaria hians_ ) focusing on habitat restoration.</h1>
+<h1>Ecological studies of the flame shell (<i>Limaria hians</i>) focusing on habitat restoration.</h1>
 
 My honors project focused on the biology of flame shells with regard to potential habitat restoration efforts and added to data showing a continued decline in the Port Appin flame shell bed. 
 
