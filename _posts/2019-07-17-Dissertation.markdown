@@ -10,7 +10,7 @@ categories: jekyll update
 
 My honors project focused on the biology of flame shells with regard to potential habitat restoration efforts and added to data showing a continued decline in the Port Appin flame shell bed. 
 
-Flame shells are 
+Flame shells are 3-4cm bivalves of the family _Limidae_. They get their common name from their  bright orange palial tentacles
 
 Another part of my dissertation was nest rebuilding observations at night using a raspberry pi based camera system to record long timelapses during the day and night using the Pi NOIR camera and an infrared light. Footage bellow. This work is being continued by [Kieran Tulbure](https://www.hw.ac.uk/schools/energy-geoscience-infrastructure-society/research/iles/tulbure-kieran.htm), a PHd candidate at Heriot-Watt University.
 

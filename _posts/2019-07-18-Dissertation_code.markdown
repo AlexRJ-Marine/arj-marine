@@ -108,7 +108,7 @@ nohup python time_lapse.py
 This will now start capturing numbered images into the directory. You should be able to see images accumulating in the directory. 
 
 <figure class="figure-100">
-<img class="scaled" src="{{site.baseurl}}/site_images/2019-07-18-Dissertation_code/lim_IR.jpeg" alt="Pi">
+<img class="scaled" src="{{site.baseurl}}/site_images/2019-07-18-Dissertation_code/Lim_IR.jpeg" alt="Lim IR">
 <figcaption>
 	A frame from a time lapse at night under infrared light.
 </figcaption>
