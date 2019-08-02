@@ -1,0 +1,27 @@
+---
+exclude: true
+---
+
+
+## To do
+
+
+* Implement rmd 
+	https://chepec.se/2014/07/16/knitr-jekyll/
+
+* Implement a table generator https://github.com/wooorm/markdown-table
+
+* update extended CV
+	* Other work history
+	* Detailed programing skills
+	* Fix links in CV to new CV
+
+* Add Pi camera code to dissertation and create github repo
+
+* Fix images in navigation
+
+* Get favicon
+
+* Write up YOLO
+
+* Fix buttons 

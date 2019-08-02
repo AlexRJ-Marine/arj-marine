@@ -230,11 +230,12 @@ pre {
  */
 table {
   margin-bottom: $spacing-unit;
-  width: 100%;
+  width: 60%;
   text-align: $table-text-align;
   color: lighten($text-color, 18%);
   border-collapse: collapse;
-  border: 1px solid $grey-color-light;
+  border-top: 2px solid black;
+  border-bottom: 2px solid black;
   tr {
     &:nth-child(even) {
       background-color: lighten($grey-color-light, 6%);
@@ -245,10 +246,71 @@ table {
   }
   th {
     background-color: lighten($grey-color-light, 3%);
-    border: 1px solid darken($grey-color-light, 4%);
+    border: 0px solid darken($grey-color-light, 4%);
     border-bottom-color: darken($grey-color-light, 12%);
   }
   td {
-    border: 1px solid $grey-color-light;
+    border: 0px solid $grey-color-light;
   }
 }
+
+/**
+ * Figures
+ */
+
+.figure-30 {
+  width: 30%;
+  float: right;
+  text-align: center;
+  font-style: italic;
+  font-size: smaller;
+  text-indent: 0;
+  border: thin black solid;
+  margin: 0.5em;
+  padding: 0.5em;
+}
+
+.figure-50 {
+  width: 50%;
+  float: right;
+  text-align: center;
+  font-style: italic;
+  font-size: smaller;
+  text-indent: 0;
+  border: thin black solid;
+  margin: 0.5em;
+  padding: 0.5em;
+}
+
+.figure-70 {
+  width: 70%;
+  float: right;
+  text-align: center;
+  font-style: italic;
+  font-size: smaller;
+  text-indent: 0;
+  border: thin black solid;
+  margin: 0.5em;
+  padding: 0.5em;
+}
+
+.figure-100 {
+  width: 100%;
+  float: right;
+  text-align: center;
+  font-style: italic;
+  font-size: smaller;
+  text-indent: 0;
+  border: thin black solid;
+  margin: 0.5em;
+  padding: 0.5em;
+}
+
+img.scaled {
+  width: 100%;
+}
+
+
+
+
+
