@@ -100,7 +100,7 @@ with picamera.PiCamera() as camera:
         time.sleep(1)
 
 ```
-Then run it with nohup preceding it to allow you to disconnect from the pi.
+Then run it with nohup preceding it to allow you to disconnect from the pi without terminating the script.
 ``` bash
 nohup python time_lapse.py
 ```
@@ -127,8 +127,6 @@ scp pi@YOUR_PIS_IP:/path/to/image_file.jpg /local/directory
 ``` bash 
  rsync -avzhe ssh pi@YOUR_PIS_IP:/path/to/image_file.jpg /local/directory
 ```
-
-
 
 ### Macro
 
