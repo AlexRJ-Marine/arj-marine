@@ -9,7 +9,7 @@ permalink:
 
 ### Live preview of image processing functions.
 
-This script could be applied many other functions in Open CV and will be a useful tool in developing other projects in the future. In this case i used a bilateral filter as it was useful for an edge detection project i am working on. The Python script (below) produces an output that looks like this, with the original image shown to the side in a mac preview window for reference. 
+This script could be applied to many other functions in Open CV and will be a useful tool in developing other projects in the future. In this case I used a bilateral filter as it was useful for an edge detection project I am working on. The Python script (below) produces an output that looks like this, with the original image shown to the side in a Mac preview window for reference. 
 
 <figure class="figure-100">
 <img class="scaled" src="{{site.baseurl}}/site_images/2019-09-24/opencv_logo.png" alt="Faild to load image">
@@ -17,7 +17,7 @@ This script could be applied many other functions in Open CV and will be a usefu
 	
 </figcaption></figure>  
 
-We can see here that when the edges are well defined edge detection works very well.
+We can see here that when the edges are well defined, edge detection works very well.
 
 
 <figure class="figure-100">
