@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Dissertation time lapse capture code write up."
+title:  "Dissertation time lapse capture code write up"
 meta: The Python code used to frame the shot and to capture images, also discusses how to encode a video from a series of photos using ffmpeg.
 date:   2019-07-21 15:31:53 +0100
 categories: jekyll update

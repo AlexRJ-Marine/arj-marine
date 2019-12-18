@@ -5,4 +5,6 @@
 layout: home
 ---
 
- I'm a recently graduated marine biologist and diving contractor from Heriot-Watt university. I'm trying to work out what to do with this website other than hosting my CV so watch this space. 
+ I'm a recently graduated marine biologist and diving contractor from Heriot-Watt university. I'm trying to work out what to do with this website other than hosting my CV so watch this space.
+
+ *******************************

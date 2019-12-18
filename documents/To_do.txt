@@ -6,8 +6,7 @@ exclude: true
 ## To do
 
 
-* Implement rmd 
-	https://chepec.se/2014/07/16/knitr-jekyll/
+* Implement rmd https://chepec.se/2014/07/16/knitr-jekyll/
 
 * Implement a table generator https://github.com/wooorm/markdown-table
 
@@ -25,3 +24,16 @@ exclude: true
 * Write up YOLO
 
 * Fix buttons 
+
+## Trouble shooting
+
+
+View MX records
+```
+dig -t mx arj-marine.net
+```
+
+View A records
+```
+arj-marine.net +noall +answer
+```
